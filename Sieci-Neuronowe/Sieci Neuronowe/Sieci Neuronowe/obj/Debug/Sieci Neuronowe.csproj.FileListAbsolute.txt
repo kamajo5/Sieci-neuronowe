@@ -1,0 +1,19 @@
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.exe.config
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci_Neuronowe.Resources.ErrorMessages.resources
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.exe
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.pdb
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.exe
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.pdb
+C:\Users\Kamil\Desktop\Apki\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.csprojResolveAssemblyReference.cache
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.exe.config
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.pdb
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.exe
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.pdb
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.csprojResolveAssemblyReference.cache
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci_Neuronowe.Resources.ErrorMessages.resources
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.csproj.GenerateResource.Cache
+C:\Users\grzeg\Desktop\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.exe
+C:\Users\Kamil\Desktop\Apki\Sieci-Neuronowe1\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\bin\Debug\Sieci Neuronowe.exe.config
+C:\Users\Kamil\Desktop\Apki\Sieci-Neuronowe1\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.exe
+C:\Users\Kamil\Desktop\Apki\Sieci-Neuronowe1\Sieci-Neuronowe\Sieci Neuronowe\Sieci Neuronowe\obj\Debug\Sieci Neuronowe.pdb

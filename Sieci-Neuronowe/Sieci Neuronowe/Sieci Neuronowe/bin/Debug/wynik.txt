@@ -1,0 +1,993 @@
+Dane
+Macierz W:
+0,0, -1,0, -3,0
+-1,0, 0,0, 2,0
+-3,0, 2,0, 0,0
+
+Tryb synchroniczny
+
+Bdany Wektor to:
+-1,0
+-1,0
+-1,0
+
+krok 1 Badanie 1
+
+Potecjal Wejsciowy U
+4,0
+-1,0
+1,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+1,0
+
+E = -6
+krok 2 Badanie 1
+
+Potecjal Wejsciowy U
+-2,0
+1,0
+-5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+-1,0
+
+E = -8
+krok 3 Badanie 1
+
+Potecjal Wejsciowy U
+2,0
+-1,0
+5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+1,0
+
+E = -8
+Oscylacja dwu punktowa
+
+Punkt oscylacji v1
+
+1,0
+-1,0
+1,0
+
+Punkt oscylacji v2
+
+-1,0
+1,0
+-1,0
+
+############################
+Bdany Wektor to:
+-1,0
+-1,0
+1,0
+
+krok 1 Badanie 2
+
+Potecjal Wejsciowy U
+-2,0
+3,0
+1,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+1,0
+
+E = -6
+krok 2 Badanie 2
+
+Potecjal Wejsciowy U
+-4,0
+3,0
+5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+1,0
+
+E = -12
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+############################
+Bdany Wektor to:
+-1,0
+1,0
+-1,0
+
+krok 1 Badanie 3
+
+Potecjal Wejsciowy U
+2,0
+-1,0
+5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+1,0
+
+E = -8
+krok 2 Badanie 3
+
+Potecjal Wejsciowy U
+-2,0
+1,0
+-5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+-1,0
+
+E = -8
+Oscylacja dwu punktowa
+
+Punkt oscylacji v1
+
+-1,0
+1,0
+-1,0
+
+Punkt oscylacji v2
+
+1,0
+-1,0
+1,0
+
+############################
+Bdany Wektor to:
+-1,0
+1,0
+1,0
+
+krok 1 Badanie 4
+
+Potecjal Wejsciowy U
+-4,0
+3,0
+5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+1,0
+
+E = -12
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+############################
+Bdany Wektor to:
+1,0
+-1,0
+-1,0
+
+krok 1 Badanie 5
+
+Potecjal Wejsciowy U
+4,0
+-3,0
+-5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+-1,0
+
+E = -12
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+############################
+Bdany Wektor to:
+1,0
+-1,0
+1,0
+
+krok 1 Badanie 6
+
+Potecjal Wejsciowy U
+-2,0
+1,0
+-5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+-1,0
+
+E = -8
+krok 2 Badanie 6
+
+Potecjal Wejsciowy U
+2,0
+-1,0
+5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+1,0
+
+E = -8
+Oscylacja dwu punktowa
+
+Punkt oscylacji v1
+
+1,0
+-1,0
+1,0
+
+Punkt oscylacji v2
+
+-1,0
+1,0
+-1,0
+
+############################
+Bdany Wektor to:
+1,0
+1,0
+-1,0
+
+krok 1 Badanie 7
+
+Potecjal Wejsciowy U
+2,0
+-3,0
+-1,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+-1,0
+
+E = -6
+krok 2 Badanie 7
+
+Potecjal Wejsciowy U
+4,0
+-3,0
+-5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+-1,0
+
+E = -12
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+############################
+Bdany Wektor to:
+1,0
+1,0
+1,0
+
+krok 1 Badanie 8
+
+Potecjal Wejsciowy U
+-4,0
+1,0
+-1,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+-1,0
+
+E = -6
+krok 2 Badanie 8
+
+Potecjal Wejsciowy U
+2,0
+-1,0
+5,0
+
+Potecjal Wyjsciowy V
+1,0
+-1,0
+1,0
+
+E = -8
+krok 3 Badanie 8
+
+Potecjal Wejsciowy U
+-2,0
+1,0
+-5,0
+
+Potecjal Wyjsciowy V
+-1,0
+1,0
+-1,0
+
+E = -8
+Oscylacja dwu punktowa
+
+Punkt oscylacji v1
+
+-1,0
+1,0
+-1,0
+
+Punkt oscylacji v2
+
+1,0
+-1,0
+1,0
+
+############################
+
+Tryb asynchroniczny
+
+Bdany Wektor to:
+-1,0
+-1,0
+-1,0
+
+krok 1 Badanie 1
+
+Potecjal Wejsciowy U
+4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = 4
+
+krok 2 Badanie 1
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 3 Badanie 1
+
+Potecjal Wejsciowy U
+NW
+NW
+-5,0
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 4 Badanie 1
+
+Potecjal Wejsciowy U
+4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+-1,0
+-1,0
+1,0
+
+krok 1 Badanie 2
+
+Potecjal Wejsciowy U
+-2,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+-1,0
+1,0
+
+E = -6
+
+krok 2 Badanie 2
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 3 Badanie 2
+
+Potecjal Wejsciowy U
+NW
+NW
+5,0
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 4 Badanie 2
+
+Potecjal Wejsciowy U
+-4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 5 Badanie 2
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+-1,0
+1,0
+-1,0
+
+krok 1 Badanie 3
+
+Potecjal Wejsciowy U
+2,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+1,0
+-1,0
+
+E = 4
+
+krok 2 Badanie 3
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 3 Badanie 3
+
+Potecjal Wejsciowy U
+NW
+NW
+-5,0
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 4 Badanie 3
+
+Potecjal Wejsciowy U
+4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 5 Badanie 3
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+-1,0
+1,0
+1,0
+
+krok 1 Badanie 4
+
+Potecjal Wejsciowy U
+-4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 2 Badanie 4
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 3 Badanie 4
+
+Potecjal Wejsciowy U
+NW
+NW
+5,0
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+1,0
+-1,0
+-1,0
+
+krok 1 Badanie 5
+
+Potecjal Wejsciowy U
+4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 2 Badanie 5
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 3 Badanie 5
+
+Potecjal Wejsciowy U
+NW
+NW
+-5,0
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+1,0
+-1,0
+1,0
+
+krok 1 Badanie 6
+
+Potecjal Wejsciowy U
+-2,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+-1,0
+1,0
+
+E = 4
+
+krok 2 Badanie 6
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 3 Badanie 6
+
+Potecjal Wejsciowy U
+NW
+NW
+5,0
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 4 Badanie 6
+
+Potecjal Wejsciowy U
+-4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 5 Badanie 6
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+1,0
+1,0
+-1,0
+
+krok 1 Badanie 7
+
+Potecjal Wejsciowy U
+2,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+1,0
+-1,0
+
+E = -6
+
+krok 2 Badanie 7
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 3 Badanie 7
+
+Potecjal Wejsciowy U
+NW
+NW
+-5,0
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 4 Badanie 7
+
+Potecjal Wejsciowy U
+4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+krok 5 Badanie 7
+
+Potecjal Wejsciowy U
+NW
+-3,0
+NW
+
+Potencjal wyjsciowy
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+1,0
+-1,0
+-1,0
+
+E = -6
+
+############################
+Bdany Wektor to:
+1,0
+1,0
+1,0
+
+krok 1 Badanie 8
+
+Potecjal Wejsciowy U
+-4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = 4
+
+krok 2 Badanie 8
+
+Potecjal Wejsciowy U
+NW
+3,0
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 3 Badanie 8
+
+Potecjal Wejsciowy U
+NW
+NW
+5,0
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+krok 4 Badanie 8
+
+Potecjal Wejsciowy U
+-4,0
+NW
+NW
+
+Potencjal wyjsciowy
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+Siec ustabilizowała sie
+
+Punkt v1
+
+-1,0
+1,0
+1,0
+
+E = -6
+
+############################
